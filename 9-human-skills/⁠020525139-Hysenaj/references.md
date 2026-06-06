@@ -13,3 +13,11 @@ Here are the academic and industry sources used to analyze the evolving role of 
 3. **Harvard Business Review**  
    *Title:* The Skills Leadership Demands When AI Does the Coding.  
    *Context:* Highlights the growing importance of emotional intelligence (EQ), requirements negotiation, and team management in tech teams.
+
+4. **McKinsey & Company Industry Report**  
+   *Title:* The Economic Potential of Generative AI: The Next Productivity Frontier.  
+   *Context:* Explores how tech roles are shifting from syntax generation to high-level system integration and problem-solving.
+
+5. **Stack Overflow Developer Survey**  
+   *Title:* AI Pulse: How Developers Emphasize Critical Thinking Over Code Synthesis.  
+   *Context:* Provides statistics on developer sentiment regarding AI limitations and the irreplaceable value of human oversight.
